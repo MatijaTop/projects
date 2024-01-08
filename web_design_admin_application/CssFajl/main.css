@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 5px ;
+}
+div{
+    border: solid black thin;
+}
+.container{
+    height: auto;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.forma_dodavanja{
+    height: 35vh;
+    width: 50%;
+    background-color: rgb(0, 247, 255);
+    text-align: center;
+}
+.dole{
+   height: 35vh;
+   display: flex;
+   justify-content: space-between;
+   
+   border: none;
+   width: 50%;
+}
+.izmjena{
+    width: 100%;
+    text-align: center;
+}
+.podaci{
+    width: 100%;
+    height: auto;
+
+}
+form{
+    width: 100%;
+}
+form p{
+    width: 70%;
+    display: flex;
+    margin-top: 10px;
+}
+form p label{
+    text-align: right;
+    width: 30%;
+    margin-right: 10px;
+}
+form p input{
+    width: 70%;
+    border-radius: 10px;
+    padding: 5px;
+    height: 30px;
+}
+#vrsta{
+    margin-left:90px;
+    margin-right: 20px;
+}
+button{
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+th,td{
+    padding: 10px;
+}
+th:hover{
+    background-color: rgb(0, 191, 255);
+}
+.podaci{
+    padding: 10px;
+    width: 100%;
+}
+#tabela{
+    width: 100%;
+}
+#dodavanje{
+    margin-top: 5px;
+}
+#izmjena_clana{
+    margin-top: 5px;
+}
+#vrsta_izmjena{
+    margin-left:90px;
+    margin-right: 20px;
+}
+.izmjena{
+    background-color: red;
+}
