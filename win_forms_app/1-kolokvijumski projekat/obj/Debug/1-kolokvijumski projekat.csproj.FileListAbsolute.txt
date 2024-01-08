@@ -1,0 +1,10 @@
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\bin\Debug\1-kolokvijumski projekat.exe.config
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\bin\Debug\1-kolokvijumski projekat.exe
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\bin\Debug\1-kolokvijumski projekat.pdb
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\1-kolokvijumski projekat.csproj.AssemblyReference.cache
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\_1_kolokvijumski_projekat.Form1.resources
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\_1_kolokvijumski_projekat.Properties.Resources.resources
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\1-kolokvijumski projekat.csproj.GenerateResource.cache
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\1-kolokvijumski projekat.csproj.CoreCompileInputs.cache
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\1-kolokvijumski projekat.exe
+C:\Users\KorisniK\Desktop\c#programiranje\sol1-kolokvijumski projekat\1-kolokvijumski projekat\obj\Debug\1-kolokvijumski projekat.pdb
